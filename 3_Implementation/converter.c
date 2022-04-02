@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
@@ -141,3 +142,6 @@ int main()
     getch();
     return 0;
 }
+=======
+
+>>>>>>> cbc04af8a8b880131f540394fc50af1fb36fef8b
